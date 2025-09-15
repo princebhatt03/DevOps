@@ -60,7 +60,7 @@ Each folder includes **step-by-step examples, configuration files, scripts, and 
 cd Docker/
 ```
 
-📌 Progress Tracking
+## 📌 Progress Tracking
 
 ✅ Linux Basics
 
@@ -76,7 +76,7 @@ cd Docker/
 
 (This will be updated as I progress in my DevOps journey)
 
-🌟 Contribution & Feedback
+## 🌟 Contribution & Feedback
 
 This is primarily a personal learning repository, but if you have suggestions, resources, or improvements:
 
@@ -84,7 +84,7 @@ Open an Issue
 
 Submit a Pull Request
 
-### 📞 Contact
+## 📞 Contact
 
 Prince Bhatt
 
@@ -96,8 +96,8 @@ Prince Bhatt
 
 💬 LinkedIn: [Prince Bhatt](https://www.linkedin.com/in/prince-bhatt-0958a725a/)
 
-📄 License
+## 📄 License
 
-This project is created and owned by Prince Bhatt
+This Repo is created and owned by Prince Bhatt
 
 ✨Thank you for connecting...
