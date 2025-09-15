@@ -52,12 +52,12 @@ Each folder includes **step-by-step examples, configuration files, scripts, and 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/DevOps-Learning.git
-   cd DevOps-Learning
+   git clone git_repo_url
+   cd folder_name
    ```
 2. Navigate into the desired folder:
 ```
-cd Docker/
+cd Folder_name/ (Inside Root directory)
 ```
 
 ## 📌 Progress Tracking
