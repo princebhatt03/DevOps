@@ -63,10 +63,15 @@ cd Docker/
 📌 Progress Tracking
 
 ✅ Linux Basics
+
 ✅ Git & GitHub
+
 ✅ Docker Fundamentals
+
 🔄 Kubernetes (In Progress)
+
 🔄 Terraform & IaC (Upcoming)
+
 🔄 Monitoring with Prometheus & Grafana
 
 (This will be updated as I progress in my DevOps journey)
