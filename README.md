@@ -1,7 +1,7 @@
 # 🚀 DevOps Learning Repository
 
 Welcome to my **DevOps Learning Repository**!  
-This repository contains my hands-on practice, notes, and projects as I explore and master various **DevOps tools, platforms, and best practices**.  
+This repository contains my hands-on practice, notes, and projects as I explore and master various **DevOps tools, platforms, and best practices specially for MERN Stack**.  
 
 The repo is organized into multiple folders, each focusing on a specific DevOps technology or concept like **AWS, Docker, CI/CD, Kubernetes, Terraform, Ansible, and more**.  
 
